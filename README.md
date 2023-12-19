@@ -1,20 +1,20 @@
 CRUD Operations Overview
 The abbreviation CRUD, which stands for Create, Read, Update, and Delete, encapsulates the core activities of database administration and web development. This concept defines the fundamental operations that can be performed on data within a system.
 
-Activities: Produce:
+Activities:
 
+Create:
 This requires adding new information to the database.
 Filling out and submitting a form to add a new entry is an example.
 Follow these steps:
+- involves querying the database to retrieve information.
+- For example, presenting a product list or gaining access to user information.
 
-involves querying the database to retrieve information.
-For example, presenting a product list or gaining access to user information.
-Revision:
-
+Update:
 involves updating or modifying the present data in the database.
 Changing user data and product specifications are two examples.
-Eliminate:
 
+Delete:
 includes retrieving data from a database.
 For example, you may delete a user account or a product.
 
